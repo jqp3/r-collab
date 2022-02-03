@@ -1,0 +1,12 @@
+---
+title: "test"
+author: "John Deitsch"
+date: "2/3/2022"
+output: github_document
+---
+
+```{r}
+
+summary(cars)
+
+```
