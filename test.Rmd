@@ -7,6 +7,6 @@ output: github_document
 
 ```{r}
 
-summary(cars)
+nrow(cars)
 
 ```
