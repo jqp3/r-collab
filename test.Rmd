@@ -8,5 +8,5 @@ output: github_document
 ```{r}
 
 nrow(cars)
-
+plot(cars)
 ```
